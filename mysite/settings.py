@@ -29,7 +29,8 @@ ALLOWED_HOSTS = []
 
 
 # Application definition
-# Left off at slide 100
+######## Use "python manage.py runserver" to run the code #######
+# When your project is open, you can add a /admin at the end of the URL to access admin.
 
 INSTALLED_APPS = [
     'django.contrib.admin',
