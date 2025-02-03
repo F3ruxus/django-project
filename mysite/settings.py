@@ -130,6 +130,6 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 # Add your email in the line below 
-EMAIL_HOST_USER = 'app8flask@gmail.com'
+EMAIL_HOST_USER = 'juan3722880@gmail.com'
 # Add a password below for an email
-EMAIL_HOST_PASSWORD = ''
+EMAIL_HOST_PASSWORD = '123abc'
