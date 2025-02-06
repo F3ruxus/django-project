@@ -21,4 +21,5 @@ def main():
 if __name__ == '__main__':
     main()
 
-## LEFT OFF AT SLIDE 267
+## PROJECT COMPLETED ##
+## It's python manage.py runserver  to run your code
